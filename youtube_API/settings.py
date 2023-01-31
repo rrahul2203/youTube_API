@@ -126,7 +126,7 @@ REST_FRAMEWORK = {
 }
 
 
-API_KEYS = ['AIzaSyCZC4WP6kUtEXNE3WpNFLsW3uX4tsPfeQI', 'AIzaSyBfyQUeIPrAVZmGEVejLPH1wRaHIA7bCE0', 'AIzaSyBtcJCjqM3NWCB_6fS4M8BzZGMrQCaJVL8']
+API_KEYS = ['AIzaSyArDUZpmaUexrLIb7UOwppaH4jJDPBVXko', 'AIzaSyDvXR1ze81lORJiWgDeIvjitQnPJMFt8sc', 'AIzaSyCDdqvEvgvvbf61YaCIrCj3PXLBID86fA8']
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
 
