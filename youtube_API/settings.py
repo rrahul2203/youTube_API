@@ -87,7 +87,7 @@ CELERY_BEAT_SCHEDULE = {}
 
 CELERY_BEAT_SCHEDULE["store_query_data"] = {
         "task": "app.tasks.get_latest_videos",
-        'schedule': 30.0,
+        'schedule': 180.0,
     }
 
 # Database
