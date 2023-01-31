@@ -1,3 +1,2 @@
 venv/
-app/__pycache__/
-youtube_API/__pycache__/
+**/__pycache__/
