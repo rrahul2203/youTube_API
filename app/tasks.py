@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
-#@app.task
+@app.task
 def get_latest_videos(search = 'Cricket'):
     time_now = datetime.now()
     last_request_time = time_now - timedelta(minutes=1)
